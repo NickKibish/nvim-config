@@ -1,0 +1,5 @@
+require("nick")
+
+print("hello")
+
+
